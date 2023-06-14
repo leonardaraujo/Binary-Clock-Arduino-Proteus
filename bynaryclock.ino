@@ -1,3 +1,7 @@
+//created by Leonardo Araujo 
+//Github leonardaraujo
+//leonardoaraujo.oct@gmail.com+
+
 //latch led
 int l_rgb = 13;
 
